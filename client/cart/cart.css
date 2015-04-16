@@ -1,0 +1,14 @@
+td.totalcol {
+    text-align: right;
+}
+
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+    border: 0px solid #dddddd;
+    border-right-width:0px;
+    border-left-width:0px;
+}
